@@ -40,14 +40,7 @@ python virtual_mouse_with_scroll.py
 ```
 4. Show your hand gestures in front of your webcam to control the mouse.
 5. Press **Q** to exit.
-
-## Screenshots
-*(Add screenshots here after your first run — showing the app working)*
-
-## Author
-**Kannan S.**  
-- GitHub: [Your GitHub Profile Link]  
-- Instagram: @_king_events_nellai  
+ 
 
 ## License
 This project is licensed under the MIT License — feel free to use, modify, and share.
